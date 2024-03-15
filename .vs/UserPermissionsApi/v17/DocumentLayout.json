@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pablo\\varios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0893B-DB18-40A3-93C5-A432E5C0D542}|UserPermissionApi.Presentation.Test\\UserPermissionApi.Presentation.Test.csproj|c:\\pablo\\varios\\userpermissionapi.presentation.test\\employeepermissionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0893B-DB18-40A3-93C5-A432E5C0D542}|UserPermissionApi.Presentation.Test\\UserPermissionApi.Presentation.Test.csproj|solutionrelative:userpermissionapi.presentation.test\\employeepermissionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0893B-DB18-40A3-93C5-A432E5C0D542}|UserPermissionApi.Presentation.Test\\UserPermissionApi.Presentation.Test.csproj|c:\\pablo\\varios\\userpermissionapi.presentation.test\\permissiontypecontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0893B-DB18-40A3-93C5-A432E5C0D542}|UserPermissionApi.Presentation.Test\\UserPermissionApi.Presentation.Test.csproj|solutionrelative:userpermissionapi.presentation.test\\permissiontypecontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0893B-DB18-40A3-93C5-A432E5C0D542}|UserPermissionApi.Presentation.Test\\UserPermissionApi.Presentation.Test.csproj|c:\\pablo\\varios\\userpermissionapi.presentation.test\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0893B-DB18-40A3-93C5-A432E5C0D542}|UserPermissionApi.Presentation.Test\\UserPermissionApi.Presentation.Test.csproj|solutionrelative:userpermissionapi.presentation.test\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Pablo\\varios\\UserPermissionsApi.Application\\Controllers\\EmployeePermissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserPermissionsApi.Application\\Controllers\\EmployeePermissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 444,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeePermissionController.cs",
+              "DocumentMoniker": "C:\\Pablo\\varios\\UserPermissionsApi.Application\\Controllers\\EmployeePermissionController.cs",
+              "RelativeDocumentMoniker": "UserPermissionsApi.Application\\Controllers\\EmployeePermissionController.cs",
+              "ToolTip": "C:\\Pablo\\varios\\UserPermissionsApi.Application\\Controllers\\EmployeePermissionController.cs",
+              "RelativeToolTip": "UserPermissionsApi.Application\\Controllers\\EmployeePermissionController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:05:44.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeePermissionsControllerTests.cs",
+              "DocumentMoniker": "C:\\Pablo\\varios\\UserPermissionApi.Presentation.Test\\EmployeePermissionsControllerTests.cs",
+              "RelativeDocumentMoniker": "UserPermissionApi.Presentation.Test\\EmployeePermissionsControllerTests.cs",
+              "ToolTip": "C:\\Pablo\\varios\\UserPermissionApi.Presentation.Test\\EmployeePermissionsControllerTests.cs",
+              "RelativeToolTip": "UserPermissionApi.Presentation.Test\\EmployeePermissionsControllerTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:01:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermissionTypeControllersTests.cs",
+              "DocumentMoniker": "C:\\Pablo\\varios\\UserPermissionApi.Presentation.Test\\PermissionTypeControllersTests.cs",
+              "RelativeDocumentMoniker": "UserPermissionApi.Presentation.Test\\PermissionTypeControllersTests.cs",
+              "ToolTip": "C:\\Pablo\\varios\\UserPermissionApi.Presentation.Test\\PermissionTypeControllersTests.cs",
+              "RelativeToolTip": "UserPermissionApi.Presentation.Test\\PermissionTypeControllersTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:56:44.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Pablo\\varios\\UserPermissionApi.Presentation.Test\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "UserPermissionApi.Presentation.Test\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Pablo\\varios\\UserPermissionApi.Presentation.Test\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "UserPermissionApi.Presentation.Test\\EmployeeControllerTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:56:36.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

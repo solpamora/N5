@@ -1,0 +1,17 @@
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\bin\Debug\net8.0\UserPermissionsApi.Infrastructure.deps.json
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\bin\Debug\net8.0\UserPermissionsApi.Infrastructure.dll
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\bin\Debug\net8.0\UserPermissionsApi.Infrastructure.pdb
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.AssemblyInfo.cs
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.dll
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\refint\UserPermissionsApi.Infrastructure.dll
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.pdb
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\ref\UserPermissionsApi.Infrastructure.dll
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\bin\Debug\net8.0\UserPermissionsApi.Infrastructure.runtimeconfig.json
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\bin\Debug\net8.0\UserPermissionsApi.Domain.dll
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\bin\Debug\net8.0\UserPermissionsApi.Domain.pdb
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPerm.AC8AD9BD.Up2Date
+C:\Pablo\varios\UserPermissionsApi.Infrastructure\obj\Debug\net8.0\UserPermissionsApi.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: user-permission-presentation-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: user-permission-presentation
+  template:
+    metadata:
+      labels:
+        app: user-permission-presentation
+    spec:
+      containers:
+      - name: user-permission-presentation
+        image: mcr.microsoft.com/dotnet/aspnet:6.0
+        ports:
+        - containerPort: 80

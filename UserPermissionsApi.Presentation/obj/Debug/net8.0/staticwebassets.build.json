@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1aScj+PWxnaHIUhuROvN+AkytS7hdNVtgt/LBM46ftg=",
+  "Source": "UserPermissionsApi.Presentation",
+  "BasePath": "_content/UserPermissionsApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

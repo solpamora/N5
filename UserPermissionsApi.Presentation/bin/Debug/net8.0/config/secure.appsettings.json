@@ -1,0 +1,72 @@
+{
+  "Serilog": {
+    "Using": [ "Serilog.Sinks.File" ],
+    "MinimumLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    },
+    "WriteTo": [
+      {
+        "Name": "File",
+        "Args": {
+          "path": "../logs/APICredentialLog.log",         
+          "rollingInterval": "Day",
+          "outputTemplate": "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} {CorrelationId} {Level:u3} {Username} {Message:lj}{Exception}{NewLine}"
+        }
+      },
+      {
+        "Name": "MSSqlServer",
+        "Args": {
+          "connectionString": "Server=gssAudit-tst-db;Database=gssaudit; Integrated Security=True;",
+          "tableName": "PSaludApiCredentialLogs",
+          "schemaName": "PSaludInt",
+          "autocreateSqlTable": false,
+          "columnOptionsSection": {
+            "removeStandardColumns": [ "MessageTemplate", "Properties", "TimeStamp", "Message", "Level", "Exception" ], //remove the Properties column in the standard ones
+            "customColumns": [
+              {
+                "ColumnName": "Date",
+                "DataType": "datetime"
+              },
+              {
+                "ColumnName": "Thread",
+                "DataType": "varchar",
+                "DataLength": 255
+              },
+              {
+                "ColumnName": "Logger",
+                "DataType": "varchar",
+                "DataLength": 255
+              },
+              {
+                "ColumnName": "UserName",
+                "DataType": "varchar",
+                "DataLength": 150
+              },
+              {
+                "ColumnName": "Handler",
+                "DataType": "varchar",
+                "DataLength": 500
+              },
+              {
+                "ColumnName": "Message",
+                "DataType": "varchar",
+                "DataLength": 4000
+              },
+              {
+                "ColumnName": "Level",
+                "DataType": "varchar",
+                "DataLength": 50
+              },
+              {
+                "ColumnName": "Exception",
+                "DataType": "varchar",
+                "DataLength": 2000
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

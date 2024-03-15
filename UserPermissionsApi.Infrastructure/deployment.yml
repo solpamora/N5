@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: user-permission-infraestructure-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: user-permission-infraestructure
+  template:
+    metadata:
+      labels:
+        app: user-permission-infraestructure
+    spec:
+      containers:
+      - name: user-permission-infraestructure
+        image: mcr.microsoft.com/dotnet/aspnet:6.0
+        ports:
+        - containerPort: 80

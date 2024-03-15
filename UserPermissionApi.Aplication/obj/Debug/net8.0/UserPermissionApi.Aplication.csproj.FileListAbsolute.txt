@@ -1,0 +1,15 @@
+C:\Pablo\varios\UserPermissionApi.Aplication\bin\Debug\net8.0\UserPermissionApi.Aplication.deps.json
+C:\Pablo\varios\UserPermissionApi.Aplication\bin\Debug\net8.0\UserPermissionApi.Aplication.dll
+C:\Pablo\varios\UserPermissionApi.Aplication\bin\Debug\net8.0\UserPermissionApi.Aplication.pdb
+C:\Pablo\varios\UserPermissionApi.Aplication\bin\Debug\net8.0\UserPermissionsApi.Domain.dll
+C:\Pablo\varios\UserPermissionApi.Aplication\bin\Debug\net8.0\UserPermissionsApi.Domain.pdb
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPermissionApi.Aplication.csproj.AssemblyReference.cache
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPermissionApi.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPermissionApi.Aplication.AssemblyInfoInputs.cache
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPermissionApi.Aplication.AssemblyInfo.cs
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPermissionApi.Aplication.csproj.CoreCompileInputs.cache
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPerm.72763659.Up2Date
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPermissionApi.Aplication.dll
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\refint\UserPermissionApi.Aplication.dll
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\UserPermissionApi.Aplication.pdb
+C:\Pablo\varios\UserPermissionApi.Aplication\obj\Debug\net8.0\ref\UserPermissionApi.Aplication.dll

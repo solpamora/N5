@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "UserPermissionsApi.Presentation.Controllers.EmployeeController",
+    "Method": "GetEmployees",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[UserPermissionsApi.Domain.Entities.Employee, UserPermissionsApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserPermissionApi.Controllers.PermissionTypeController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/PermissionType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[UserPermissionsApi.Domain.Entities.PermissionType, UserPermissionsApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

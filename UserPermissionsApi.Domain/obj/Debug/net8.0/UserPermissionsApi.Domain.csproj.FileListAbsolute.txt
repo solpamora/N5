@@ -1,0 +1,11 @@
+C:\Pablo\varios\UserPermissionsApi.Domain\bin\Debug\net8.0\UserPermissionsApi.Domain.deps.json
+C:\Pablo\varios\UserPermissionsApi.Domain\bin\Debug\net8.0\UserPermissionsApi.Domain.dll
+C:\Pablo\varios\UserPermissionsApi.Domain\bin\Debug\net8.0\UserPermissionsApi.Domain.pdb
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\UserPermissionsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\UserPermissionsApi.Domain.AssemblyInfoInputs.cache
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\UserPermissionsApi.Domain.AssemblyInfo.cs
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\UserPermissionsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\UserPermissionsApi.Domain.dll
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\refint\UserPermissionsApi.Domain.dll
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\UserPermissionsApi.Domain.pdb
+C:\Pablo\varios\UserPermissionsApi.Domain\obj\Debug\net8.0\ref\UserPermissionsApi.Domain.dll
